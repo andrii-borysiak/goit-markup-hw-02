@@ -1,0 +1,18 @@
+.team {
+  background-color: var(--cloud);
+}
+
+.team-card {
+  background-color: var(--white);
+}
+
+.team-card-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.team-card > .text {
+  text-align: center;
+}
